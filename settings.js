@@ -54,23 +54,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['916909137213'] //ur owner number
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.vcardowner = ['923470027813'] //ur owner number
+global.ownername = "Ahmad Ali🇵🇰" //ur owner name
+global.ytname = "YT: Adviser Everything" //ur yt chanel name
+global.socialm = "GitHub: xIKRATOSx" //ur github or insta name
+global.location = "Pakistan, Punjab, Gujranwala" //ur location
 
 //bot bomdy 
-global.owner = ['916909137213']
-global.ownertag = '916909137213' //ur tag number
-global.botname = 'Cheems Bot MD V4' //ur bot name
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
-global.reactmoji = "😘" //ur menu react emoji
-global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄Dream Guy Xeon" //ur sticker watermark author
+global.owner = ['923470027813']
+global.ownertag = '923470027813' //ur tag number
+global.botname = 'Ikratos-Cheems-v4' //ur bot name
+global.linkz = "https://m.youtube.com/shorts/zezJgsONb5c" //your theme url which will be displayed on whatsapp
+global.websitex = "https://m.youtube.com/channel/UCYfkG2Y9XZDSM15DQWgOUVQ" //ur website to be displayed
+global.botscript = 'https://github.com/xIKRATOSx/CheemsBot-MD4' //script link
+global.reactmoji = "🇵🇰" //ur menu react emoji
+global.themeemoji = "🦦" //ur theme emoji
+global.packname = "x_ikratos_x " //ur sticker watermark packname
+global.author = "Ahmad(923470027813)" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['916909137213'] //ur premium numbers
+global.premium = ['923470027813'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -122,7 +122,7 @@ global.mess = {
 }
     global.limitawal = {
     premium: "Infinity",
-    free: 12,
+    free: Infinity,
     monayawal: 1000
 }
    global.rpg = {
