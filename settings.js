@@ -57,7 +57,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.vcardowner = ['923470027813'] //ur owner number
 global.ownername = "Ahmad Ali🇵🇰" //ur owner name
 global.ytname = "YT: Adviser Everything" //ur yt chanel name
-global.socialm = "GitHub: xIKRATOSx" //ur github or insta name
+global.socialm = "Instagram: www.instagram.com/itx_ahmad.ali" //ur github or insta name
 global.location = "Pakistan, Punjab, Gujranwala" //ur location
 
 //bot bomdy 
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['923470027813'] //ur premium numbers
+global.premium = ['923470027813','923191089077','68673054010','27739958612'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -105,20 +105,20 @@ global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
-    wait: 'In process...',
-    linkm: 'Where is the link?',
-    error: 'Error!!',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
-    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
-    banChat: 'The bot was banned in this group, please contact the owner to unban'
+    success: '🤠Done ✓',
+    admin: '🤠This Feature Is Only For Admin!',
+    botAdmin: '🤠Bot Must Be Admin First!',
+    owner: '🤠This Feature Is Only For Owner!',
+    group: '🤠Feature Used Only For Groups!',
+    private: '🤠Features Used Only For Private Chat!',
+    bot: '🤠This Feature Is Only For Bot',
+    wait: '🤠In process...',
+    linkm: '🤠Where is the link?',
+    error: '🤠Error!!',
+    endLimit: '🤠Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
+    ban: '🤠You have been banned by the owner, if you want to be unbanned, chat owner.',
+    nsfw: '🤠The nsfw feature has not been activated, please contact the admin to activate',
+    banChat: '🤠The bot was banned in this group, please contact the owner to unban'
 }
     global.limitawal = {
     premium: "Infinity",
